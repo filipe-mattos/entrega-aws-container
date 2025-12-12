@@ -1,3 +1,5 @@
+## Dupla - Filipe Mattos e Daniel Donatelli
+
 ### Ao tentar executar o comando terraform apply, foi gerado um erro relacionado às minhas credenciais da AWS, tentei alterar as credenciais, adicioná-las no bash e resetar o laboratório, mas nada funcionou.
 
 
@@ -6,4 +8,5 @@
 
 
 ### Se possível, gostaria de solicitar pelo menos até domingo para tentar resolver esse erro e conseguir anexar os prints na entrega.
+
 
