@@ -1,12 +1,13 @@
 ## Dupla - Filipe Mattos e Daniel Donatelli
 
-### Ao tentar executar o comando terraform apply, foi gerado um erro relacionado às minhas credenciais da AWS, tentei alterar as credenciais, adicioná-las no bash e resetar o laboratório, mas nada funcionou.
+## Comando Terraform Apply
+<img width="1260" height="260" alt="image" src="https://github.com/user-attachments/assets/3e04c511-5503-4179-8781-337ffe53b539" />
 
+## Print Aplicacao
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/6a36fff1-967e-43d7-a2ec-d5c51fb6f35c" />
 
-<img width="1693" height="163" alt="image" src="https://github.com/user-attachments/assets/3bf93757-73d7-4dff-877e-8747f65f9677" />
+##Print Terraform Destroy
+<img width="1680" height="263" alt="image" src="https://github.com/user-attachments/assets/8072bf67-7161-495c-918b-81b9b62e7b88" />
 
-
-
-### Se possível, gostaria de solicitar pelo menos até domingo para tentar resolver esse erro e conseguir anexar os prints na entrega.
 
 
