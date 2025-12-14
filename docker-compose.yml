@@ -38,8 +38,6 @@ services:
     container_name: frontend
     ports:
       - "4200:4200"
-    environment:
-      VITE_API_URL: "http://python:8000"
     depends_on:
       - api
     networks:
